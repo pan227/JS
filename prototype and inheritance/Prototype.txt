@@ -32,4 +32,5 @@ https://www.toptal.com/javascript/es6-class-chaos-keeps-js-developer-up
 what is constructor in ES6 class?
 inheritance? 
 ES6 class?
+js load
 

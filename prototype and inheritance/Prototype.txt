@@ -30,7 +30,16 @@ https://stackoverflow.com/questions/4166616/understanding-the-difference-between
 https://www.toptal.com/javascript/es6-class-chaos-keeps-js-developer-up
 
 what is constructor in ES6 class?
+https://www.educative.io/edpresso/what-is-a-constructor-in-javascript
+constructor method is a special method of a class for creating and initialization an object of that class.
+In JavaScript, here’s what happens when a constructor is invoked:
+1. A new empty object is created
+2. this keyword starts referring to that newly created object and hence it becomes the current instance object
+3. The newly created object is then returned as the constructor’s returned value
+In JavaScript, if you don’t specify any constructor, a default constructor is automatically 
+created which has no parameters: constructor()
 inheritance? 
 ES6 class?
+Classes are a template for creating objects. They encapsulate data with code to work on that data.
 js load
 

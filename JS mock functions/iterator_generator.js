@@ -15,6 +15,7 @@
 let myIterator = {
     next: function() {
         // ...
+        //return {done: boolean, value: any type. can be omitted when done is true}
     },
     [Symbol.iterator]: function() { return this; }
 };
